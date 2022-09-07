@@ -11,6 +11,7 @@ function getMaxLengthString(arrayOfString) {
             ans = arrayOfString[i];
             max_str = maxi;
         }
+        //test
     }
   return [ans];
 
