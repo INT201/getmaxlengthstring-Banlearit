@@ -16,8 +16,6 @@ function getMaxLengthString(arrayOfString) {
 }
 module.exports = getMaxLengthString
 
-console.log(getMaxLengthString(['hello', 'hi', 'hey', 'Good Evening', 'Good Morning']))
-
 
 
 
