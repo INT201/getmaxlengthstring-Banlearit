@@ -13,5 +13,6 @@ function getMaxLengthString(arrayOfString) {
         }
     }
     return max_str;
+	// test 
 }
 module.exports = getMaxLengthString
